@@ -9,14 +9,12 @@ Node.js (version 16 or higher recommended)
 npm or Yarn
 
 📦 Install Dependencies
-#
 `npm install`
 or
 `yarn install`
 
 🔧 Run the App Locally
 Start the development server:
-#
 `npm run dev`
 or
 `yarn dev`
@@ -25,7 +23,6 @@ The app will be available at: http://localhost:3000
 
 🏗️ Build for Production
 To create an optimized production build:
-#
 `npm run build`
 or
 `yarn build`
